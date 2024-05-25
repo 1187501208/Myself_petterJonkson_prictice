@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <trees>
+     <tree path="/day02-code/src" title="" extension="" presentableText="" tooltipTitle="" icon="" textColor=""
+           backgroundColor=""/>
+     <tree path="/day02-code/src/txtPakge/Demo3/test/test11.java" title="判断输入的范围所有的质数"/>
+     <tree path="/day02-code/src/txtPakge/Demo3/test/test10.java" title="计算打折后的飞机票"/>
+     <tree path="/day02-code/src/txtPakge/Demo3/test/test12.java" title="设计含大小写英文和数字的随机数验证码"/>
+     <tree path="/day02-code/src/txtPakge/Demo3/test/test13.java" title="设计含大小写英文和数字的随机数验证码"/>
+     <tree path="/day02-code/src/txtPakge/Demo3/test/test14.java" title="输入字符串放进数组并复制到另一个数组里面"/>
+     <tree path="/day02-code/src/txtPakge/Demo3/test/test15.java" title="评委打分系统"/>
+     <tree path="/day02-code/src/txtPakge/Demo3/test/test16.java" title="将输入的密码加密"/>
+     <tree path="/day02-code/src/txtPakge/Demo3/test/test17.java" title="把加密的密码解密"/>
+     <tree path="/day02-code/src/txtPakge/Demo3/test/test18.java" title="打乱数组顺序抽红包"/>
+    <tree path="/day02-code/src/txtPakge/Demo3/test/test19.java" title="打乱抽红包顺序"/>
+    <tree path="/day02-code/src/txtPakge/Demo1/arithmeticcoperatorDemo1.java" title="算术运算介绍"/>
+    <tree path="/day02-code/src/txtPakge/Demo1/arithmeticcoperatorDemo2.java" title="自增自减运算介绍"/>
+    <tree path="/day02-code/src/txtPakge/Demo1/arithmeticcoperatorDemo3.java" title="赋值运算的介绍"/>
+    <tree path="/day02-code/src/txtPakge/Demo1/arithmeticcoperatorDemo4.java" title="关系运算介绍"/>
+    <tree path="/day02-code/src/txtPakge/Demo1/LogicoperatorDemo1.java" title="逻辑运算介绍"/>
+    <tree path="/day02-code/src/txtPakge/Demo1/LogicoperatorDemo2.java" title="短路运算介绍"/>
+    <tree path="/day02-code/src/txtPakge/Demo1/LogicoperatorDemo3.java" title="三元运算介绍" extension=""
+          presentableText="" tooltipTitle="" icon="" textColor="" backgroundColor=""/>
+    <tree path="/day02-code/src/txtPakge/Demo1/test/test1.java" title="录入并输出各个数位的数字" extension=""
+          presentableText="" tooltipTitle="" icon="" textColor="" backgroundColor=""/>
+    <tree path="/day02-code/src/txtPakge/Demo1/test/test2.java" title="用时衣服髦程度判断相亲是否成功"/>
+    <tree path="/day02-code/src/txtPakge/Demo1/test/test3.java" title="两个数及其之和是否是6的倍数判断"/>
+    <tree path="/day02-code/src/txtPakge/Demo1/test/test4.java" title="判断两只老虎体重是否相同"/>
+    <tree path="/day02-code/src/txtPakge/Demo1/test/test5.java" title="获取最大值"/>
+    <tree path="/day02-code/src/txtPakge/Demo2/ArrayDemo1.java" title="创建数组"/>
+    <tree path="/day02-code/src/txtPakge/Demo2/ArrayDemo2.java" title="访问和存储数据到数组"/>
+    <tree path="/day02-code/src/txtPakge/Demo1" title="基本算术运算"/>
+    <tree path="/day02-code/src/txtPakge/Demo4/test/FightGame.java" title="对打游戏"/>
+    <tree path="/day02-code/src/txtPakge/Demo4/test/FightGameTest.java" title="对打游戏"/>
+    <tree path="/day02-code/src/txtPakge/Demo4/test/avr.java" title="定义对象属性的标准类" extension=""
+          presentableText="" tooltipTitle="" icon="" textColor="" backgroundColor=""/>
+    <tree path="/day02-code/src/txtPakge/Demo4/test/avr_test.java" title="求对象属性的平均数"/>
+    <tree path="/day02-code/src/txtPakge/Demo4/test/product.java" title="定义商品属性" extension="" presentableText=""
+          tooltipTitle="" icon="" textColor="" backgroundColor=""/>
+    <tree path="/day02-code/src/txtPakge/Demo4/test/product2.java" title="定义商品属性2" extension="" presentableText=""
+          tooltipTitle="" icon="" textColor="" backgroundColor=""/>
+    <tree path="/day02-code/src/txtPakge/Demo4/test/product_test.java" title="商品属性展示"/>
+    <tree path="/day02-code/src/txtPakge/Demo4/test/student_Image.java" title="定义学生属性" extension=""
+          presentableText="" tooltipTitle="" icon="" textColor="" backgroundColor=""/>
+    <tree path="/day02-code/src/txtPakge/Demo4/test/student_Image_test.java" title="查找并改变对象属性"/>
+    <tree path="/day02-code/src/txtPakge/Demo4/StudentSystem/StudentInfo.java" title="学生信息类"/>
+    <tree path="/day02-code/src/txtPakge/Demo4/StudentSystem/StudentsMS.java" title="学生管理系统"/>
+    <tree path="/day02-code/src/txtPakge/Demo4/StudentSystem/StudentMSLogin.java" title="学生管理系统的用户登陆界面"
+          extension="" presentableText="" tooltipTitle="" icon="" textColor="" backgroundColor=""/>
+    <tree path="/day02-code/src/txtPakge/Demo5/interior" title="内部类/局部内部类/静态内部类/匿名内部类" extension=""
+          presentableText="" tooltipTitle="" icon="" textColor="" backgroundColor=""/>
+    <tree path="/puzzlegame/src/test/MyJFrame2.java" title="鼠标监听"/>
+    <tree path="/puzzlegame/src/test/MyJFrame.java" title="动作监听"/>
+    <tree path="/puzzlegame/src/test/test1.java" title="打乱图片"/>
+    <tree path="/puzzlegame/src/test/test2.java" title="测试内的动作监听"/>
+    <tree path="/day02-code/src/txtPakge/Demo2/ArrayDemo3.java" title="遍历"/>
+    <tree path="/day02-code/src/txtPakge/Demo2/IfDemo1.java" title="if判断语句"/>
+    <tree path="/day02-code/src/txtPakge/Demo2/IfDemo2.java" title="if_else判断语句"/>
+    <tree path="/day02-code/src/txtPakge/Demo2/LoopDemo.java" title="for循环"/>
+    <tree path="/day02-code/src/txtPakge/Demo2/OrderDemo.java" title="多次输出语句"/>
+    <tree path="/day02-code/src/txtPakge/Demo2/SwitchDemo1.java" title="switch选择语句"/>
+    <tree path="/day02-code/src/txtPakge/Demo2/WhileDemo1.java" title="while循环"/>
+    <tree path="/day02-code/src/txtPakge/Demo3/DoubleDimensionDemo1.java" title="二维数组"/>
+    <tree path="/day02-code/src/txtPakge/Demo3/DoubleDimensionDemo2.java" title="二维数组动态初始化"/>
+    <tree path="/day02-code/src/txtPakge/Demo3/DoubleDimensionDemo3.java" title="二维数组输出表格"/>
+    <tree path="/day02-code/src/txtPakge/Demo3/MethodDemo1.java" title="方法"/>
+    <tree path="/day02-code/src/txtPakge/Demo3/MethodDemo2.java" title="方法2"/>
+    <tree path="/day02-code/src/txtPakge/Demo3/MethodDemo3.java" title="定义求和方法"/>
+    <tree path="/day02-code/src/txtPakge/Demo4/StudentTest.java" title="展示学生对象" extension="" presentableText=""
+          tooltipTitle="" icon="" textColor="" backgroundColor=""/>
+    <tree path="/day02-code/src/txtPakge/Demo4/User.java" title="定义标准用户类" extension="" presentableText=""
+          tooltipTitle="" icon="" textColor="" backgroundColor=""/>
+    <tree path="/day02-code/src/txtPakge/Demo4/exist.java" title="查找用户对象ID"/>
+    <tree path="/day02-code/src/txtPakge/Demo4/GetStudentList.java" title="展示学生对象"/>
+    <tree path="/day02-code/src/txtPakge/Demo4/GetStudentListInput.java" title="键入并展示学生信息"/>
+    <tree path="/day02-code/src/txtPakge/Demo4/GirlFriend.java" title="定义女朋友类"/>
+    <tree path="/day02-code/src/txtPakge/Demo4/GirlFriend2.java" title="定义标准女朋友类"/>
+    <tree path="/day02-code/src/txtPakge/Demo4/GirlFriendTest.java" title="展示女朋友对象"/>
+    <tree path="/day02-code/src/txtPakge/Demo4/Phone.java" title="定义手机类"/>
+    <tree path="/day02-code/src/txtPakge/Demo4/PhoneList.java" title="展示并找到对应价格的手机对象" extension=""
+          presentableText="" tooltipTitle="" icon="" textColor="" backgroundColor=""/>
+    <tree path="/day02-code/src/txtPakge/Demo4/PhoneNumber.java" title="隐藏手机号和身份证部分信息"/>
+    <tree path="/day02-code/src/txtPakge/Demo4/PhoneTest.java" title="展示手机对象"/>
+    <tree path="/day02-code/src/txtPakge/Demo4/Student.java" title="定义标准学生类"/>
+    <tree path="/day02-code/src/txtPakge/Demo4/userLogin.java" title="模拟用户登陆系统"/>
+    <tree path="/day02-code/src/txtPakge/Demo2/test/ArryTest1.java" title="数组元素求和"/>
+    <tree path="/day02-code/src/txtPakge/Demo2/test/ArryTest2.java" title="统计数组能被3整除数字"/>
+    <tree path="/day02-code/src/txtPakge/Demo2/test/ArryTest3.java" title="统计数奇偶数并做出相应变化"/>
+    <tree path="/day02-code/src/txtPakge/Demo2/test/ArryTest4.java" title="数组存储录入学生姓名"/>
+    <tree path="/day02-code/src/txtPakge/Demo2/test/ArryTest5.java" title="找出数组最大数"/>
+    <tree path="/day02-code/src/txtPakge/Demo2/test/ArryTest6.java" title="生成随机数并求和求平均"/>
+    <tree path="/day02-code/src/txtPakge/Demo2/test/ArryTest7.java" title="对称交换数组元素"/>
+    <tree path="/day02-code/src/txtPakge/Demo2/test/ArryTest8.java" title="对称交换数组元素方法2"/>
+    <tree path="/day02-code/src/txtPakge/Demo2/test/ArryTest9.java" title="随机打乱数组元素"/>
+    <tree path="/day02-code/src/txtPakge/Demo2/test/test1.java" title="if判断做出反应"/>
+    <tree path="/day02-code/src/txtPakge/Demo2/test/test2.java" title="if判断做出反应" extension="" presentableText=""
+          tooltipTitle="" icon="" textColor="" backgroundColor=""/>
+    <tree path="/day02-code/src/txtPakge/Demo2/test/test3.java" title="if_else判断支付是否成功"/>
+    <tree path="/day02-code/src/txtPakge/Demo2/test/test4.java" title="if_else根据电影票号码判断座位" extension=""
+          presentableText="" tooltipTitle="" icon="" textColor="" backgroundColor=""/>
+    <tree path="/day02-code/src/txtPakge/Demo2/test/test5.java" title="switch根据分数判断获奖情况"/>
+    <tree path="/day02-code/src/txtPakge/Demo2/test/test6.java" title="switch根据星期判断行为"/>
+    <tree path="/day02-code/src/txtPakge/Demo2/test/test7.java" title="if_else嵌套if判断工作日和休息日"/>
+    <tree path="/day02-code/src/txtPakge/Demo2/test/test8.java" title="switch根据键入数字判断服务类型"/>
+    <tree path="/day02-code/src/txtPakge/Demo2/test/test9.java" title="for循环打印数字"/>
+    <tree path="/day02-code/src/txtPakge/Demo2/test/test10.java" title="for循环输出语句"/>
+    <tree path="/day02-code/src/txtPakge/Demo2/test/test11.java" title="for循环求和"/>
+    <tree path="/day02-code/src/txtPakge/Demo2/test/test12.java" title="for循环求和1-100的偶数"/>
+    <tree path="/day02-code/src/txtPakge/Demo2/test/test13.java" title="for循环统计键入范围内的被3\5整除的数"/>
+    <tree path="/day02-code/src/txtPakge/Demo2/test/test14.java" title="###while循环统计折叠次数(递归和循环的区别)" extension=""
+          presentableText="" tooltipTitle="" icon="" textColor="" backgroundColor=""/>
+    <tree path="/day02-code/src/txtPakge/Demo2/test/test14LoopAndRecursion.java" title="循环和递归区别统计折叠次数"/>
+    <tree path="/day02-code/src/txtPakge/Demo2/test/test15.java" title="回文数判断的基础解法(不用数组,直接从定义出发)"
+          extension="" presentableText="" tooltipTitle="" icon="" textColor="" backgroundColor=""/>
+    <tree path="/day02-code/src/txtPakge/Demo2/test/test16.java" title="回文数判断,利用性质解"/>
+    <tree path="/day02-code/src/txtPakge/Demo2/test/text17.java" title="除法性质求余数和商"/>
+    <tree path="/day02-code/src/txtPakge/Demo2/test/text18.java" title="逢7过判断"/>
+    <tree path="/day02-code/src/txtPakge/Demo2/test/text20.java" title="判断质数基础暴力判断" extension="" presentableText=""
+          tooltipTitle="" icon="" textColor="" backgroundColor=""/>
+    <tree path="/day02-code/src/txtPakge/Demo2/test/text19.java" title="平方根,精确到整数"/>
+    <tree path="/day02-code/src/txtPakge/Demo2/test/text21.java" title="判断质数,平方根解法"/>
+    <tree path="/day02-code/src/txtPakge/Demo2/test/text22.java" title="抽奖系统,生成随机数,并进行猜数判断" extension=""
+          presentableText="" tooltipTitle="" icon="" textColor="" backgroundColor=""/>
+    <tree path="/day02-code/src/txtPakge/Demo3/test/test1.java" title="计算周长" extension="" presentableText=""
+          tooltipTitle="" icon="" textColor="" backgroundColor=""/>
+    <tree path="/day02-code/src/txtPakge/Demo3/test/test2.java" title="定义方法计算面积" extension="" presentableText=""
+          tooltipTitle="" icon="" textColor="" backgroundColor=""/>
+    <tree path="/day02-code/src/txtPakge/Demo3/test/test3.java" title="求和" extension="" presentableText=""
+          tooltipTitle="" icon="" textColor="" backgroundColor=""/>
+    <tree path="/day02-code/src/txtPakge/Demo3/test/test4.java" title="计算并比较面积" extension="" presentableText=""
+          tooltipTitle="" icon="" textColor="" backgroundColor=""/>
+    <tree path="/day02-code/src/txtPakge/Demo3/test/test5.java" title="比较不同数据类型" extension="" presentableText=""
+          tooltipTitle="" icon="" textColor="" backgroundColor=""/>
+    <tree path="/day02-code/src/txtPakge/Demo3/test/test6.java" title="遍历数组,并按照格式输出" extension=""
+          presentableText="" tooltipTitle="" icon="" textColor="" backgroundColor=""/>
+    <tree path="/day02-code/src/txtPakge/Demo3/test/test7.java" title="求数组最大值" extension="" presentableText=""
+          tooltipTitle="" icon="" textColor="" backgroundColor=""/>
+    <tree path="/day02-code/src/txtPakge/Demo3/test/test8.java" title="判断某个数是否存在数组里" extension=""
+          presentableText="" tooltipTitle="" icon="" textColor="" backgroundColor=""/>
+    <tree path="/day02-code/src/txtPakge/Demo3/test/test9.java" title="截取数组指定区间的元素" extension=""
+          presentableText="" tooltipTitle="" icon="" textColor="" backgroundColor=""/>
+    <tree path="/day02-code/src/txtPakge/Demo3" title="方法和数组的使用"/>
+    <tree path="/day02-code/src/txtPakge/Demo2" title="循环\条件语句和认识数组" extension="" presentableText=""
+          tooltipTitle="" icon="" textColor="" backgroundColor=""/>
+    <tree path="/day02-code/src/txtPakge/Demo4/StudentSystem/StudentSystem.java" title="学生管理系统"/>
+    <tree path="/day02-code/src/txtPakge/Demo4/StudentSystem/StudentUser.java" title="用户信息类"/>
+    <tree path="/day02-code/src/txtPakge/Demo4/StudentSystem" title="学生管理系统"/>
+    <tree path="/day02-code/src/txtPakge/Demo4/test/HashCode.java" title="查询数组的哈希值"/>
+    <tree path="/day02-code/src/txtPakge/Demo4/test/CHNumberTrans.java" title="引用数据类型和基本的区别_汉字数字转化" extension=""
+          presentableText="" tooltipTitle="" icon="" textColor="" backgroundColor=""/>
+    <tree path="/day02-code/src/txtPakge/Demo4/test/CountString.java" title="统计字母和数字"/>
+    <tree path="/day02-code/src/txtPakge/Demo4/test/getword.java" title="StringBuilder获取最大字符串"/>
+   <tree path="/day02-code/src/txtPakge/Demo4/test/NewPhone.java" title="定义手机属性"/>
+   <tree path="/day02-code/src/txtPakge/Demo4/test/randomNumber.java" title="StringBuilder打乱任意字符串"/>
+   <tree path="/day02-code/src/txtPakge/Demo4/test/romma.java" title="数字转化为罗马数字"/>
+   <tree path="/day02-code/src/txtPakge/Demo4/test/StringConnect.java" title="按照固定格式输出字符串"/>
+   <tree path="/day02-code/src/txtPakge/Demo4/test/Stringedit.java" title="StringBuilder旋转字符串判定"/>
+   <tree path="/day02-code/src/txtPakge/Demo4/test/symmetryWord.java" title="StringBuilder方法判断回文数" extension=""
+         presentableText="" tooltipTitle="" icon="" textColor="" backgroundColor=""/>
+   <tree path="/day02-code/src/txtPakge/Demo4/test/turnback.java" title="String方法判断回文数"/>
+   <tree path="/day02-code/src/txtPakge/Demo4/test/TwoChar.java" title="String方法把字符串数字转int数字"/>
+   <tree path="/day02-code/src/txtPakge/Demo4/test/yanzhengma.java"
+         title="StringBuilder和String生成含大小写数字的验证码"/>
+   <tree path="/day02-code/src/txtPakge/Demo4" title="标准类和String和StringBuilder的应用" extension=""
+         presentableText="" tooltipTitle="" icon="" textColor="" backgroundColor=""/>
+   <tree path="/day02-code/src/txtPakge/Demo5/abstractTool/Animal.java" title="抽象动物类"/>
+   <tree path="/day02-code/src/txtPakge/Demo5/abstractTool/Dog.java" title="狗类"/>
+   <tree path="/day02-code/src/txtPakge/Demo5/abstractTool/Frog.java" title="青蛙类"/>
+   <tree path="/day02-code/src/txtPakge/Demo5/abstractTool/Sheep.java" title="羊类"/>
+   <tree path="/day02-code/src/txtPakge/Demo5/abstractTool/swim.java" title="游泳的方法接口"/>
+   <tree path="/day02-code/src/txtPakge/Demo5/abstractTool" title="抽象类和接口并展示效果" extension=""
+         presentableText="" tooltipTitle="" icon="" textColor="" backgroundColor=""/>
+   <tree path="/day02-code/src/txtPakge/Demo5/AnimalExtend/animals.java" title="动物类并包含方法"/>
+   <tree path="/day02-code/src/txtPakge/Demo5/AnimalExtend/Cat.java" title="猫类并继承动物类" extension=""
+         presentableText="" tooltipTitle="" icon="" textColor="" backgroundColor=""/>
+   <tree path="/day02-code/src/txtPakge/Demo5/AnimalExtend/Dog.java" title="狗类并继承动物类" extension=""
+         presentableText="" tooltipTitle="" icon="" textColor="" backgroundColor=""/>
+   <tree path="/day02-code/src/txtPakge/Demo5/AnimalExtend/Husky.java" title="哈士奇类并继承狗类" extension=""
+         presentableText="" tooltipTitle="" icon="" textColor="" backgroundColor=""/>
+   <tree path="/day02-code/src/txtPakge/Demo5/AnimalExtend/LiHua.java" title="狸花猫类并继承猫类"/>
+   <tree path="/day02-code/src/txtPakge/Demo5/AnimalExtend/RagDoll.java" title="布偶猫类并继承猫类"/>
+   <tree path="/day02-code/src/txtPakge/Demo5/AnimalExtend/Teddy.java" title="泰迪狗类并继承狗类"/>
+   <tree path="/day02-code/src/txtPakge/Demo5/AnimalExtend" title="普通类和展示继承效果" extension="" presentableText=""
+         tooltipTitle="" icon="" textColor="" backgroundColor=""/>
+   <tree path="/day02-code/src/txtPakge/Demo5/Dog/Dogs.java" title="定义狗类"/>
+   <tree path="/day02-code/src/txtPakge/Demo5/Dog/chineseDog.java" title="定义中华田园犬并重写狗类方法"/>
+   <tree path="/day02-code/src/txtPakge/Demo5/Dog/Husky.java" title="定义哈士奇并重写狗类方法" extension=""
+         presentableText="" tooltipTitle="" icon="" textColor="" backgroundColor=""/>
+   <tree path="/day02-code/src/txtPakge/Demo5/Dog/sad.java" title="定义沙皮狗并重写狗类方法"/>
+   <tree path="/day02-code/src/txtPakge/Demo5/Dog" title="普通类并重写方法" extension="" presentableText=""
+         tooltipTitle="" icon="" textColor="" backgroundColor=""/>
+   <tree path="/day02-code/src/txtPakge/Demo5/duotaiExercise/animal.java" title="定义动物类"/>
+   <tree path="/day02-code/src/txtPakge/Demo5/duotaiExercise/cat.java" title="定义猫类并重写方法"/>
+   <tree path="/day02-code/src/txtPakge/Demo5/duotaiExercise/dog.java" title="定义狗类并重写方法"/>
+   <tree path="/day02-code/src/txtPakge/Demo5/duotaiExercise/Person.java" title="定义人类并用多态动态接入" extension=""
+         presentableText="" tooltipTitle="" icon="" textColor="" backgroundColor=""/>
+   <tree path="/day02-code/src/txtPakge/Demo5/duotaiExercise" title="普通类并使用多态" extension="" presentableText=""
+         tooltipTitle="" icon="" textColor="" backgroundColor=""/>
+   <tree path="/day02-code/src/txtPakge/Demo5/interior/Car.java" title="内外部类和各自的静态/非静态方法"/>
+    <tree path="/day02-code/src/txtPakge/Demo5/interior/swim.java" title="swim接口"/>
+    <tree path="/day02-code/src/txtPakge/Demo5/managerANDcook/cook.java" title="厨师类" extension="" presentableText=""
+          tooltipTitle="" icon="" textColor="" backgroundColor=""/>
+    <tree path="/day02-code/src/txtPakge/Demo5/managerANDcook/employ.java" title="雇员类"/>
+    <tree path="/day02-code/src/txtPakge/Demo5/managerANDcook/manager.java" title="经理类"/>
+    <tree path="/day02-code/src/txtPakge/Demo5/managerANDcook" title="普通类的继承和方法重写"/>
+    <tree path="/day02-code/src/txtPakge/Demo5/Ping_Pang" title="多层继承结构"/>
+    <tree path="/day02-code/src/txtPakge/Demo5/Ping_Pang/Basketball.java" title="蓝球抽象类"/>
+    <tree path="/day02-code/src/txtPakge/Demo5/Ping_Pang/Basketball_captain.java" title="蓝球队长"/>
+    <tree path="/day02-code/src/txtPakge/Demo5/Ping_Pang/Basketball_team.java" title="蓝球队员"/>
+    <tree path="/day02-code/src/txtPakge/Demo5/Ping_Pang/Ping_Pang.java" title="乒乓球抽象类"/>
+    <tree path="/day02-code/src/txtPakge/Demo5/Ping_Pang/Ping_Pang_captain.java" title="乒乓球队长类"/>
+    <tree path="/day02-code/src/txtPakge/Demo5/Ping_Pang/Ping_pang_team.java" title="乒乓球队员类"/>
+    <tree path="/day02-code/src/txtPakge/Demo5/Ping_Pang/play.java" title="打球抽象类"/>
+    <tree path="/day02-code/src/txtPakge/Demo5/Ping_Pang/sports_man.java" title="运动员抽象类"/>
+    <tree path="/day02-code/src/txtPakge/Demo5/polymorphismDemo1/person.java" title="标准人类" extension=""
+          presentableText="" tooltipTitle="" icon="" textColor="" backgroundColor=""/>
+    <tree path="/day02-code/src/txtPakge/Demo5/polymorphismDemo1/student.java" title="学生类"/>
+    <tree path="/day02-code/src/txtPakge/Demo5/polymorphismDemo1/teacher.java" title="老师类"/>
+    <tree path="/day02-code/src/txtPakge/Demo5/polymorphismDemo1" title="继承"/>
+    <tree path="/day02-code/src/txtPakge/Demo5/StudentClass/GetMaxAgeUtil.java" title="得到最大年龄的方法类"/>
+    <tree path="/day02-code/src/txtPakge/Demo5/StudentClass/StudentTool.java" title="学生类"/>
+    <tree path="/day02-code/src/txtPakge/Demo5/StudentClass" title="工具类_集合应用_得到学生最大年龄" extension=""
+          presentableText="" tooltipTitle="" icon="" textColor="" backgroundColor=""/>
+    <tree path="/day02-code/src/txtPakge/Demo5/TooClass/ArrayUtil.java" title="返回数组平均分工具类" extension=""
+          presentableText="" tooltipTitle="" icon="" textColor="" backgroundColor=""/>
+    <tree path="/day02-code/src/txtPakge/Demo5/TooClass" title="工具类_StringBuilder_取得平均值"/>
+    <tree path="/day02-code/src/txtPakge/Demo5" title="继承_接口_抽象类_内部类"/>
+    <tree path="/puzzlegame" title="拼图小游戏" extension="" presentableText="" tooltipTitle="" icon="" textColor=""
+          backgroundColor=""/>
+    <tree path="/puzzlegame/src/game/ui" title="UI界面设置"/>
+    <tree path="/puzzlegame/src/test/MyActionListener.java" title="动作监听接口"/>
+    <tree path="/puzzlegame/src/game/ui/GameJFrame.java" title="游戏界面"/>
+    <tree path="/puzzlegame/src/game/ui/LoginJFrame.java" title="登陆界面"/>
+    <tree path="/puzzlegame/src/game/ui/RegisterJFrame.java" title="注册界面"/>
+</trees>
